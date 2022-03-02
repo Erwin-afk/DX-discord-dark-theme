@@ -1,11 +1,11 @@
 /**
 * @name Quack
 * @author Erwin#4048
-* @description Clean discord theme
-* @version 0.1
+* @description Clean theme for discord.
+* @version 0.3
 */
 
-@import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
+@import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
 
 :root {
     --avatar-radius: 180px;  
@@ -20,4 +20,12 @@
     --watermark-text: "Quack";
     --icon-img: url("https://icon-library.com/images/duck-icon/duck-icon-20.jpg");
     --discord-logo: none;
+}
+
+.theme-dark {
+    --background-primary: #23283D;
+    --background-secondary: #1E2233;
+    --background-secondary-alt: #191F2E;
+    --background-tertiary: #101320;
+    --background-accent: #7289DA;
 }
