@@ -1,31 +1,27 @@
 /**
-* @name Quack
+* @name DX Dark
 * @author Erwin#4048
 * @description Clean theme for discord.
-* @version 0.3
+* @version 0.4
 */
 
-@import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
+@import url("https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css");
 
 :root {
-    --avatar-radius: 180px;  
+    --avatar-radius: 2px;  
     --mention-color: #c54242;
     --status-radius: 180px; 
     --colored-emoji: grayscale(0%);
-    --server-radius: 180px;
-    --background-img: url("https://wallpaperaccess.com/full/1320758.jpg");
-    --titlebar-top:  4px;
-    --icon-top: 0.5px;
-    --watermark-top: 5.5px;
-    --watermark-text: "Quack";
-    --icon-img: url("https://icon-library.com/images/duck-icon/duck-icon-20.jpg");
-    --discord-logo: none;
+    --server-radius: 5px;
 }
 
 .theme-dark {
-    --background-primary: #23283D;
-    --background-secondary: #1E2233;
-    --background-secondary-alt: #191F2E;
-    --background-tertiary: #101320;
-    --background-accent: #7289DA;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-secondary-alt: transparent;
+    --background-tertiary: transparent;
+    --background-accent: transparent;
+    --home-icon: url(https://i.imgur.com/Bda0DuK.png);
+    --text-normal: #d8d8d8;
+
 }
