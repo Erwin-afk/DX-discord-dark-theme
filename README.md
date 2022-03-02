@@ -1,0 +1,1 @@
+# quack-discord-theme
