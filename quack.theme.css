@@ -1,0 +1,23 @@
+/**
+* @name Quack
+* @author Erwin#4048
+* @description Clean discord theme
+* @version 0.1
+*/
+
+@import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
+
+:root {
+    --avatar-radius: 180px;  
+    --mention-color: #c54242;
+    --status-radius: 180px; 
+    --colored-emoji: grayscale(0%);
+    --server-radius: 180px;
+    --background-img: url("https://wallpaperaccess.com/full/1320758.jpg");
+    --titlebar-top:  4px;
+    --icon-top: 0.5px;
+    --watermark-top: 5.5px;
+    --watermark-text: "Quack";
+    --icon-img: url("https://icon-library.com/images/duck-icon/duck-icon-20.jpg");
+    --discord-logo: none;
+}
