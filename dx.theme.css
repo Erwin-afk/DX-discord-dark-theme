@@ -6,7 +6,8 @@
 * @repo https://github.com/Erwin-afk/DX-discord-dark-theme/blob/main/dx.theme.css
 */
 
-@import "https://github.com/Erwin-afk/DX-discord-dark-theme/blob/main/dx.theme.css";
+@import url("https://github.com/Erwin-afk/DX-discord-dark-theme/blob/main/dx.theme.css");
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 
 :root {
 
