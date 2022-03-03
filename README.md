@@ -1,1 +1,16 @@
 # DX Discord Dark Theme
+
+# Preview
+
+![image](https://user-images.githubusercontent.com/78267674/156569365-de515603-8bed-4d38-8252-36a0633fee05.png)
+
+# How to install?
+
+- Download [BetterDiscord](https://betterdiscord.app/)    
+![image](https://user-images.githubusercontent.com/78267674/156568734-3ec82f62-c2c7-4c2e-a3d1-4f7094f78464.png)
+
+- Open themes folder  
+-  ![image](https://user-images.githubusercontent.com/78267674/156568882-556c2073-33d1-469e-a23f-cd77f7a5f462.png)  
+- Drag and drop the ``dx.theme.css`` file.  
+- And enable it!
+
