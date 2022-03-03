@@ -5,9 +5,10 @@
 * @version 0.4
 */
 
-@import url("https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css");
+@import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
 
 :root {
+    --status-background: url('https://i.imgur.com/ODa8LKK.jpg');
     --avatar-radius: 2px;  
     --mention-color: #c54242;
     --status-radius: 180px; 
