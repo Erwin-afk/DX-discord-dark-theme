@@ -1,1 +1,1 @@
-# quack-discord-theme
+# DX Discord Dark Theme
