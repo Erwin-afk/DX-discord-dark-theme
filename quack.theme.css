@@ -4,17 +4,21 @@
 * @description Clean theme for discord.
 * @version 0.4
 */
-@import "https://nyri4.github.io/Comfy/betterdiscord/main.css";
 @import "https://nyri4.github.io/Comfy/betterdiscord/no-scrollbar.css";
 @import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
 
 :root {
 
-    --avatar-radius: 0px;  
+    --scrollbars: none;
+    --public-servers: none;
+    --bar-background-primary: #c3c6d3 !important;
+    --home-icon: url(https://i.imgur.com/Bda0DuK.png);
 
-    --status-radius: 0px; 
+    --avatar-radius: 10px;  
 
-    --server-radius: 0px;
+    --status-radius: 10px; 
+
+    --server-radius: 10px;
 
     --status-background: url('https://i.imgur.com/ODa8LKK.jpg');
 
