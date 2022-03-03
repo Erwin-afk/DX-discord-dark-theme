@@ -34,3 +34,14 @@
     --text-normal: #d8d8d8;
 
 }
+
+.theme-light {
+    --background-primary: rgb(161, 161, 161);
+    --background-secondary: rgb(161, 161, 161);
+    --background-secondary-alt: rgb(161, 161, 161);
+    --background-tertiary: rgb(161, 161, 161);
+    --background-accent: rgb(161, 161, 161);
+    --home-icon: url(https://i.imgur.com/Bda0DuK.png);
+    --text-normal: #272727;
+
+}
