@@ -8,6 +8,14 @@
 @import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
 
 :root {
+    --rs-online-color: #00ff8c;
+    --rs-idle-color: #ffa200;
+    --rs-dnd-color: #ff0000;
+    --rs-offline-color: #636b75;
+    --rs-streaming-color: #5d00ff;
+    --rs-invisible-color: #747f8d;
+    --rs-phone-color: var(--rs-online-color);
+    --rs-phone-visible: block;
     --status-background: url('https://i.imgur.com/ODa8LKK.jpg');
     --avatar-radius: 2px;  
     --mention-color: #c54242;
