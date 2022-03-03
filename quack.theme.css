@@ -8,6 +8,14 @@
 @import "https://github.com/Erwin-afk/quack-discord-theme/blob/main/quack.theme.css";
 
 :root {
+    --font-normal: 500;
+    --font-hover: bold;
+    --font-size-hover: 15px;
+    --hover-transition: 0.1s linear;
+    --transform-normal: scale(1);
+    --hover-transform: scale(1.15);
+    --setting-hover-transform: scale(1.025);
+    --button-hover-transform: scale(1.03);
     --rs-online-color: #00ff8c;
     --rs-idle-color: #ffa200;
     --rs-dnd-color: #ff0000;
@@ -25,6 +33,11 @@
 }
 
 .theme-dark {
+    --titlebar-top:  4px;
+    --icon-top: 0.5px;
+    --watermark-top: 5.5px;
+    --home-icon: url(https://i.imgur.com/Bda0DuK.png);
+    --watermark-text: "Discord DX";
     --background-primary: transparent;
     --background-secondary: transparent;
     --background-secondary-alt: transparent;
@@ -36,6 +49,11 @@
 }
 
 .theme-light {
+    --titlebar-top:  4px;
+    --icon-top: 0.5px;
+    --watermark-top: 5.5px;
+    --home-icon: url(https://i.imgur.com/Bda0DuK.png);
+    --watermark-text: "Discord LX";
     --background-primary: rgb(161, 161, 161);
     --background-secondary: rgb(161, 161, 161);
     --background-secondary-alt: rgb(161, 161, 161);
