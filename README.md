@@ -4,10 +4,6 @@
 - Written in CSS
 - Made by Erwin
 
-# Preview
-
-![image](https://user-images.githubusercontent.com/78267674/156569365-de515603-8bed-4d38-8252-36a0633fee05.png)  
-
 ## Download the theme from [here](https://www.mediafire.com/file/rci8nir3bx4xsp0/dx.theme.css/file)!  
   
 # How to install?  
